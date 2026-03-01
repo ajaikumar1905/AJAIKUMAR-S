@@ -1,0 +1,5 @@
+{
+  "name": "EchoMind: Voice-First AI Chatbot",
+  "description": "A sophisticated AI chatbot that processes text and audio inputs, responding with both text and high-quality voice synthesis.",
+  "requestFramePermissions": ["microphone"]
+}
